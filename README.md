@@ -24,15 +24,15 @@ It is designed to be safe, user-friendly, and idempotent (it can be run multiple
 ## 🚀 Installation
 Run this single command in your terminal:
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/golub-kirill/ohmyzsh-autoinstall/refs/heads/main/install.sh)"
 ```
 
 🛠️ Manual Installation
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/golub-kirill/ohmyzsh-autoinstall.git
+cd ohmyzsh-autoinstall
 ```
 
 Make script executable:
